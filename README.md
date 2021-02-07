@@ -4,7 +4,7 @@ Kpop refers to the music genre and its idol industry originated in South Korea. 
 ## Contents
 There are 4 tables in this dataset:
 <ol>
-    <li>[all Kpop idols](https://github.com/charliezcr/Kpop-Data-Analysis/blob/main/kpop_idols.csv)</li>
+    <li>all Kpop idols</li>
     <li>all Kpop boy groups</li>
     <li>all Kpop girl groups</li>
     <li>all Kpop music videos</li>
