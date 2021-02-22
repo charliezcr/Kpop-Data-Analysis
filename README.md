@@ -14,6 +14,7 @@ There are 4 tables in this dataset:
     <li>all Kpop boy groups</li>
     <li>all Kpop girl groups</li>
     <li>all Kpop music videos</li>
+    <li>Kpop companies' revenues 2015-2019</li>
 </ol>
 
 ## Modules
