@@ -20,7 +20,7 @@ Here are python [notebook](https://github.com/charliezcr/Kpop-Data-Analysis/blob
 
 Here is the [interactive map](https://charliezcr.github.io/countries.html)</li>
 
-<li>Part.4 is an analysis of Kpop music videos on YouTube
+<li>Part.4 is an analysis of Kpop music videos on YouTube.
 Here are python [notebook](https://github.com/charliezcr/Kpop-Data-Analysis/blob/main/kda5.ipynb) and the [webite](https://charliezcr.github.io/kda5.html) for the code for part.4
 
 Here is the reader-friendly [Medium article](https://crzheng97.medium.com/kpop-data-analysis-c88010e40e0d) for part.4</li>
