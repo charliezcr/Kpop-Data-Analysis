@@ -25,6 +25,11 @@ Here are python [notebook](https://github.com/charliezcr/Kpop-Data-Analysis/blob
 
 Here is the reader-friendly [Medium article](https://crzheng97.medium.com/analysis-of-kpop-music-video-on-youtube-65816adb2f1) for part.4</li>
 
+<li>Part.5 is an analysis of Kpop group size, especially for big groups.
+Here are python [notebook](https://github.com/charliezcr/Kpop-Data-Analysis/blob/main/kda6.ipynb) and the [webite](https://charliezcr.github.io/kda6.html) for the code for part.5
+
+Here is the reader-friendly [Medium article](https://crzheng97.medium.com/why-kpop-groups-have-so-many-members-2086cf35e98f) for part.5</li>
+
 </ol>
 
 There are 4 tables in this dataset:
