@@ -29,17 +29,6 @@ Here are python [notebook](https://github.com/charliezcr/Kpop-Data-Analysis/blob
 
 Here is the reader-friendly [Medium article](https://crzheng97.medium.com/why-kpop-groups-have-so-many-members-2086cf35e98f) for part.5
 
-
-There are 4 tables in this dataset:
-<ol>
-    <li>all Kpop idols</li>
-    <li>all Kpop boy groups</li>
-    <li>all Kpop girl groups</li>
-    <li>all Kpop music videos</li>
-    <li>Kpop companies' revenues 2015-2019</li>
-    <li>Kpop companies' net incomes 2015-2019</li>
-</ol>
-
 ## Modules
 **pip install these modules**
 - [pandas](https://pandas.pydata.org/): data processing
